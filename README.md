@@ -1,3 +1,4 @@
+ HEAD
 # Certificate Verification System (MERN)
 
 This repository contains a Certificate Verification System (MERN) which allows:
@@ -28,3 +29,5 @@ This repository contains a Certificate Verification System (MERN) which allows:
 - Server-side PDF generation endpoint: `GET /api/certs/download/:id`
 - Admin UI to upload Excel from the frontend (`/admin` tab)
 - Improved frontend visuals and placeholder logo
+# certificateverification
+ 7802b00ee528fdf801f31cf162dd5f75e54bdc23
